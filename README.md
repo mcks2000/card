@@ -62,10 +62,10 @@
 
 ### 卡牌游戏部分截图
 **发牌**
-![image](../images/../card/images/Summon.png)
+![image](./images/summon.png)
 
 **攻击**
-![image](../images/../card/images/Attack.png)
+![image](./images/attack.png)
 
 
 
