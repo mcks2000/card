@@ -75,6 +75,9 @@
 - **游戏引擎：**           unity:2022.3.11f1c1
 - **使用AI编程助手：**      [baidu comate](https://comate.baidu.com/)
 
+## 代码地址
+- Github：https://github.com/mcks2000/card
+- Gitee：https://gitee.com/javaniuniu/card
 ## 公众号，微信群
 欢迎关注公众号：**<PASSWORD>**，或者加入微信群：
 
