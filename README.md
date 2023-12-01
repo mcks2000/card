@@ -70,7 +70,7 @@
 
 
 ## 卡牌游戏完整制作参考
-- **卡牌制作教程：** https://www.bilibili.com/video/BV11o4y1D7V6/?spm_id_from=333.337.search-card.all.click&vd_source=54e20856a9f5276a04b00b90fbc51717
+- **参考项目：** https://github.com/ddsurvivor/CardGameTutorial
 - **游戏脚本开发工具：**    vscode:1.84.2
 - **游戏引擎：**           unity:2022.3.11f1c1
 - **使用AI编程助手：**      [baidu comate](https://comate.baidu.com/)
